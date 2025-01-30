@@ -1,4 +1,4 @@
-# Hello-Nextjs15-Authjs-Supabase
+# Hello-Nextjs-15-Authjs-v5-Prisma-Supabase
 
 ## Nextjs 15
 
@@ -16,7 +16,7 @@ https://nextjs.org/docs/app/getting-started
 ✔ Would you like to customize the import alias (`@/*` by default)? … No / Yes
 ```
 
-## Auth.js
+## Auth.js v5
 
 https://authjs.dev/getting-started
 
