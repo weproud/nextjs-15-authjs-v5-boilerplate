@@ -113,6 +113,10 @@ model VerificationToken {
 
 https://supabase.com/docs/guides/getting-started
 
+#### Supabase Local 개발 환경 설정
+
+https://supabase.com/docs/reference/cli/introduction
+
 ```bash
 ❯ pnpm install supabase --save-dev
 ```
@@ -146,4 +150,5 @@ AUTH_KAKAO_SECRET=<yours>
 AUTH_GOOGLE_ID=
 AUTH_GOOGLE_SECRET=
 ```
+
 # hello-nextjs15-authjs-supabase
