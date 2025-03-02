@@ -1,4 +1,4 @@
-# Hello-Nextjs-15-Authjs-v5-Prisma-Supabase
+# Nextjs-15-Authjs-v5-boilerplate
 
 ## Nextjs 15
 
