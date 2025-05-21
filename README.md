@@ -1,4 +1,4 @@
-# Nextjs-15-Authjs-v5-boilerplate
+# hello-nextjs15-authjs-v5-supabase
 
 ## Nextjs 15
 
@@ -151,4 +151,3 @@ AUTH_GOOGLE_ID=
 AUTH_GOOGLE_SECRET=
 ```
 
-# hello-nextjs15-authjs-supabase
